@@ -32,3 +32,9 @@ footer {
     border-bottom: 1px ridge;
     min-height: 200px;
 }
+#rich {
+    height: 250px;
+}
+#hands {
+    height: 250px;
+}
