@@ -29,12 +29,10 @@ footer {
 
 .row-content {
     padding: 50px 0;
-    border-bottom: 1px ridge;
+   
     min-height: 200px;
 }
-#rich {
-    height: 250px;
-}
-#hands {
+
+.img-thumbnail {
     height: 250px;
 }
