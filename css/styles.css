@@ -36,3 +36,7 @@ footer {
 .img-thumbnail {
     height: 250px;
 }
+
+.blockquote-footer {
+    background-image:linear-gradient(white, white);
+}
